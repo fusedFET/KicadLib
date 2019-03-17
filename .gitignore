@@ -1,0 +1,14 @@
+﻿packages3D/*
+*.bak
+*.bck
+*.pdf
+*.bak
+*.log
+*.net
+*.raw
+*-cache.lib
+*-rescue.lib
+*.kicad_pcb-bak
+_saved_*.sch
+fp-info-cache
+boards/ShinaiSense/fp-info-cache

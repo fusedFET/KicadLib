@@ -1,0 +1,29 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LVC2G17
+D Schmitt Trigger
+F https://assets.nexperia.com/documents/data-sheet/74LVC2G17.pdf
+$ENDCMP
+#
+$CMP Antenna_MIFA
+D Antenna
+K antenna
+F ~
+$ENDCMP
+#
+$CMP BMX160-SPI
+K 9 axis absolute orientation sensor
+F https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMX160-DS000~1.pdf
+$ENDCMP
+#
+$CMP SN74AHC1G126DRL
+D Single bit buffer with 3 state output
+F http://www.ti.com/lit/ds/symlink/sn74ahc1g126.pdf
+$ENDCMP
+#
+$CMP XCL209F083DR
+D 400mA Inductor Built-in Step-Down “micro DC/DC” Converters
+F https://www.torexsemi.com/file/xcl208/XCL208-XCL209.pdf
+$ENDCMP
+#
+#End Doc Library
